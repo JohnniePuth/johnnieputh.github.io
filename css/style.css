@@ -228,8 +228,14 @@ span {
 .js-bar {
   width: 74%;
 }
-.react-bar {
-  width: 80%;
+.vue-bar {
+  width: 50%;
+}
+.laravel-bar {
+  width: 52%;
+}
+.java-bar {
+  width: 52%;
 }
 .services-content {
   display: grid;
